@@ -2,9 +2,9 @@
 <addon id="plugin.video.coqui" name="Coqui TV" version="1.0.1" provider-name="Master JEDI">
     <extension point="xbmc.addon.repository" name="main">
         <dir>
-            <info compressed="false">https://github.com/escobaleso/repo/main/repo/zips/addons.xml</info>
-            <checksum>https://github.com/escobaleso/repo/main/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/escobaleso/repo/main/repo/zips/</datadir>
+            <info compressed="false">https://github.com/escobaleso/repo/main/zips/addons.xml</info>
+            <checksum>https://github.com/escobaleso/repo/main/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/escobaleso/repo/main/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
